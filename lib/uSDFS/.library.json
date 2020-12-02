@@ -1,0 +1,35 @@
+{
+    "name": "uSDFS", 
+    "frameworks": [
+        "arduino"
+    ], 
+    "platforms": [
+        "teensy 3.2/5/6 - 4", 
+        "0"
+    ], 
+    "keywords": [
+        "filesystem", 
+        "exfat", 
+        "fat32", 
+        "sdio", 
+        "spi", 
+        "mbr", 
+        "gpt"
+    ], 
+    "description": "WMXZ uSDFS Library", 
+    "version": "1.1.2", 
+    "authors": [
+        {
+            "email": null, 
+            "url": null, 
+            "maintainer": true, 
+            "name": "Walter Zimmer"
+        }
+    ], 
+    "repository": {
+        "type": "git", 
+        "url": "https://github.com/wmxz-eu/uSDFS.git"
+    }, 
+    "examples": "examples/*/*.ino", 
+    "id": 2957
+}
